@@ -8,6 +8,7 @@ body {
   height: 100vh;
   margin: 0;
   font-family: 'Arial', sans-serif;
+  
 }
 
 .app {
@@ -15,7 +16,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 70vh;
+  height: auto;
   min-height: fit-content;
   width: 60vw;
   min-width: fit-content;
